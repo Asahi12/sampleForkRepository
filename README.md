@@ -1,0 +1,3 @@
+# sampleForkRepository
+
+Forkする場合のブランチ運用を検討するリポジトリです
